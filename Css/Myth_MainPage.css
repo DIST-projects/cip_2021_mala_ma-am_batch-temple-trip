@@ -1,0 +1,35 @@
+#Top
+{
+background-color:#FAEBD7;
+height:30px;
+width:100%;
+}
+#Header
+{
+background-color:none;
+}
+#Header img
+{
+ height:80px;
+}
+#Header ul
+{
+float:right;
+margin-top:25px;
+}
+#Header ul li
+{
+display:inline;
+margin-right:30px;
+}
+#Header ul li a
+{
+color:navy;
+text-decoration:none;
+font-size:18px;
+}
+
+#Content h1
+{
+	color:navy;
+}

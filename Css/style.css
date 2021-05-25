@@ -1,0 +1,143 @@
+#Top
+{
+background-color:#FAEBD7;
+height:30px;
+width:100%;
+}
+
+#Header
+{
+background-color:none;
+}
+#Header img
+{
+ height:80px;
+}
+#Header ul
+{
+float:right;
+margin-top:25px;
+}
+#Header ul li
+{
+display:inline;
+margin-right:30px;
+}
+#Header ul li a
+{
+color:navy;
+text-decoration:none;
+font-size:18px;
+}
+
+#Cards1
+{
+	height:350px;
+	width:33%;
+	float:left;
+}
+
+#Cards2
+{
+	height:350px;
+	width:33%;
+	float:left;
+	padding-left:20px;
+}
+
+#Cards3
+{
+	height:350px;
+	width:33%;
+	float:right;
+}
+
+#About
+{	
+	padding-top:30px;
+	width:33%;
+	float:left;
+	padding-right:40px;
+	padding-left:40px;	
+}
+
+#Locations
+{	
+	padding-top:30px;
+	width:33%;
+	float:left;		
+}
+
+#ContactUs
+{
+	padding-top:30px;
+	width:34%;
+	float:right;
+	padding-left:40px;
+	padding-right:40px;	
+}
+
+#ContactUs p iframe
+{
+	padding-right:50px;
+	padding-top:20px;
+}
+
+.jumbotron
+{
+	height:85%;
+	width:100%;
+}
+
+#Video video
+{
+	padding-top:30px;
+	padding-left:350px;
+	padding-right:60px;
+	padding-bottom:50px;
+    height:500px;		
+}
+
+#multi-item-example
+{
+	width:100%;
+	margin:0px auto;
+	padding-left:80px;
+	padding-right:80px;
+	padding-bottom:20px;
+	padding-top:80px;
+}
+
+
+.gallery1 img
+{
+	width:25%;
+	float:left;
+	padding-left:20px;
+}
+.gallery2 img
+{
+	width:25%;
+	float:left;
+	padding-left:20px;
+}
+.gallery3 img
+{
+	width:25%;
+	float:left;
+	padding-left:20px;
+}
+.gallery4 img
+{
+	width:25%;
+	float:right;
+	padding-right:20px;
+	padding-left:20px;
+}
+
+#Image_Gallery
+{
+	margin:0px auto;
+}
+
+
